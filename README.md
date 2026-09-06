@@ -1,5 +1,6 @@
 # ClassTrack — AI-Based Classroom Attendance
-
+## Name: Joel John Jobinse
+## Reg No: 212223240062
 ## Important scope
 This educational project demonstrates **face detection plus teacher verification**. The computer-vision component detects faces in a classroom image but does not identify people by biometric identity. The teacher remains responsible for the final Present/Absent decision.
 
