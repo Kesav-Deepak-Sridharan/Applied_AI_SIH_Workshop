@@ -69,3 +69,7 @@ For a report, evaluate the face detector separately using a labelled set of clas
 - Runtime per image
 
 Do not describe detection accuracy as student-identification accuracy; this implementation does not perform identity recognition.
+
+## Output
+
+<img width="1917" height="837" alt="image" src="https://github.com/user-attachments/assets/e74548b8-44a0-4414-a4aa-9b2844902bba" />
