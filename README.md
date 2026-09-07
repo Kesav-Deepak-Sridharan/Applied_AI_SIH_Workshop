@@ -1,4 +1,4 @@
-# ClassTrack — AI-Based Classroom Attendance
+# ANTI-PROXY — AI-Based Classroom Attendance
 
 ## Important scope
 This educational project demonstrates **face detection plus teacher verification**. The computer-vision component detects faces in a classroom image but does not identify people by biometric identity. The teacher remains responsible for the final Present/Absent decision.
